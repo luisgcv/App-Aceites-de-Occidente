@@ -1,0 +1,19 @@
+# Ignorar cachés de Python
+__pycache__/
+*.pyc
+
+# Ignorar entornos virtuales
+venv/
+
+# Ignorar carpetas de build y dist
+build/
+dist/
+
+# Ignorar configuraciones locales
+.vscode/
+.env
+
+# Archivos pdf
+.documento_temp.pdf
+.temo_factura.pdf
+.
